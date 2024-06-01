@@ -1,0 +1,5 @@
+# Copyright (c) 2020 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+config SHIELD_NORI4X4
+    def_bool $(shields_list_contains,nori4x4)

@@ -1,0 +1,8 @@
+file_format: "1"
+id: nori4x4
+name: nori4x4 by 40percent
+type: shield
+url: https://www.40percent.club/2018/10/nori.html
+requires: [pro_micro]
+features:
+  - keys
